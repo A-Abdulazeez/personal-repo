@@ -1,9 +1,0 @@
- public class
- public static int subtract(int a, int b) {
-        if (a > b) {
-            return a - b;
-        } else {
-            return b - a;
-        }
-    }
-}
